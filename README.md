@@ -195,10 +195,6 @@ This workflow allowed generative tools to operate within an established director
 
 ---
 
-
-不过这里有个 Markdown 小问题：因为外层本身就是代码块，我上面展示时会出现嵌套。你实际复制到 README 时，**Production Pipeline 那部分直接写成下面这样最稳：**
-
-```markdown
 ## Production Pipeline
 
 The project followed a structured production pipeline designed to establish narrative, visual and spatial decisions before final generation.
