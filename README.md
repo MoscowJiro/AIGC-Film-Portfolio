@@ -248,29 +248,3 @@ FINAL FILM
 | **CapCut** | Editing、Sound Design、Final Assembly |
 
 ---
-
-## 项目文件｜Project Files
-
-仓库中包含部分制作文件，用于展示影片背后的技术结构。
-- [Blender World Master](THE HUNT/05_PROJECT_FILES/THE_HUNT_WORLD_MASTER.blend)
-- [World Master Scene — GLB](THE HUNT/05_PROJECT_FILES/WORLD_MASTER_SCENE.glb)
-- [World Layout Data](THE HUNT/05_PROJECT_FILES/world_layout.json)
-- [Interactive World Master Viewer](THE HUNT/04_PREVIS/01_WORLD_BLOCKING/WORLD_MASTER_VIEWER.html)
-这些文件属于制作过程记录，不影响成片观看。
-
----
-
-## 主创｜Credits
-
-THE HUNT｜猎
-编剧 / 导演
-Jiahui Hong
-视觉开发｜Visual Development
-Jiahui Hong
-预演与虚拟摄影｜Previsualization & Virtual Cinematography
-Jiahui Hong
-AI-Assisted Production
-LibTV · Seedance 2.5 · GPT-6 Astra · Blender · Midjourney
-剪辑与声音设计｜Editing & Sound Design
-Jiahui Hong
-2026
