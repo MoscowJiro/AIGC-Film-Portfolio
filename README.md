@@ -233,7 +233,8 @@ FINAL FILM
 
 ---
 
-使用工具｜Tools
+## 使用工具｜Tools
+
 Tool	用途
 GPT-6 Astra	项目规划、Workflow Assistance、Production Development
 Blender	World Blocking、Camera Blocking、Previsualization
@@ -244,7 +245,8 @@ CapCut	Editing、Sound Design、Final Assembly
 
 ---
 
-项目文件｜Project Files
+## 项目文件｜Project Files
+
 仓库中包含部分制作文件，用于展示影片背后的技术结构。
 - [Blender World Master](THE HUNT/05_PROJECT_FILES/THE_HUNT_WORLD_MASTER.blend)
 - [World Master Scene — GLB](THE HUNT/05_PROJECT_FILES/WORLD_MASTER_SCENE.glb)
@@ -254,7 +256,8 @@ CapCut	Editing、Sound Design、Final Assembly
 
 ---
 
-主创｜Credits
+## 主创｜Credits
+
 THE HUNT｜猎
 编剧 / 导演
 Jiahui Hong
