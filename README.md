@@ -55,14 +55,6 @@
 
 [阅读完整剧本 →](THE%20HUNT/02_PREPRODUCTION/script.md)
 
-### 镜头表｜Master Shot List
-
-剧本被拆解为一份完整的 **24-shot Master Shot List**。
-
-每个镜头分别定义了构图、Camera Behavior、角色动作、时间长度和叙事功能。
-
-[查看 Master Shot List →](THE%20HUNT/02_PREPRODUCTION/Master_Shot_List.md)
-
 ---
 
 ## 视觉设定｜Visual Bible
