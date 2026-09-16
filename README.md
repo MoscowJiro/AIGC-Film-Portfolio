@@ -210,6 +210,8 @@ Production Board 将角色、环境、构图和镜头生成参考集中在同一
 
 ---
 
+---
+
 ## 制作流程｜Production Pipeline
 
 ```text
@@ -230,16 +232,20 @@ GENERATIVE PRODUCTION
 EDITING & SOUND DESIGN
   ↓
 FINAL FILM
+```
 
 ---
 
-Tool	用途
-GPT-6 Astra	项目规划、Workflow Assistance、Production Development
-Blender	World Blocking、Camera Blocking、Previsualization
-Midjourney	Visual Development、Reference Generation
-LibTV	Generative Production Workflow
-Seedance 2.5	Video Generation
-CapCut	Editing、Sound Design、Final Assembly
+## 使用工具｜Tools
+
+| Tool | 用途 |
+| --- | --- |
+| **GPT-6 Astra** | 项目规划、Workflow Assistance、Production Development |
+| **Blender** | World Blocking、Camera Blocking、Previsualization |
+| **Midjourney** | Visual Development、Reference Generation |
+| **LibTV** | Generative Production Workflow |
+| **Seedance 2.5** | Video Generation |
+| **CapCut** | Editing、Sound Design、Final Assembly |
 
 ---
 
