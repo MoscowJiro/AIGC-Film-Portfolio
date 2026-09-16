@@ -233,10 +233,6 @@ FINAL FILM
 
 ---
 
-# THE HUNT｜猎
-
-## 使用工具｜Tools
-
 Tool	用途
 GPT-6 Astra	项目规划、Workflow Assistance、Production Development
 Blender	World Blocking、Camera Blocking、Previsualization
